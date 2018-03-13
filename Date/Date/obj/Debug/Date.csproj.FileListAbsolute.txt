@@ -1,0 +1,14 @@
+C:\Users\m.slivinschi\source\repos\Date\Date\bin\Debug\Date.exe.config
+C:\Users\m.slivinschi\source\repos\Date\Date\bin\Debug\Date.exe
+C:\Users\m.slivinschi\source\repos\Date\Date\bin\Debug\Date.pdb
+C:\Users\m.slivinschi\source\repos\Date\Date\obj\Debug\Date.csprojResolveAssemblyReference.cache
+C:\Users\m.slivinschi\source\repos\Date\Date\obj\Debug\Date.Form1.resources
+C:\Users\m.slivinschi\source\repos\Date\Date\obj\Debug\Date.Properties.Resources.resources
+C:\Users\m.slivinschi\source\repos\Date\Date\obj\Debug\Date.csproj.GenerateResource.Cache
+C:\Users\m.slivinschi\source\repos\Date\Date\obj\Debug\Date.csproj.CoreCompileInputs.cache
+C:\Users\m.slivinschi\source\repos\Date\Date\obj\Debug\Date.exe
+C:\Users\m.slivinschi\source\repos\Date\Date\obj\Debug\Date.pdb
+C:\Users\m.slivinschi\source\repos\Date\Date\bin\Debug\Date.exe.manifest
+C:\Users\m.slivinschi\source\repos\Date\Date\bin\Debug\Date.application
+C:\Users\m.slivinschi\source\repos\Date\Date\obj\Debug\Date.exe.manifest
+C:\Users\m.slivinschi\source\repos\Date\Date\obj\Debug\Date.application
